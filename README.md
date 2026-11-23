@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.png" alt="Krishna Sai Desaboina logo" width="96" height="96"></p>
+
 # Krishna Sai Desaboina — Lead AI/ML Architect
 
 Portfolio website for **Krishna Sai Desaboina**, Lead AI/ML Architect with 12+ years establishing governed methods for generative AI, RAG, agentic systems, and classical ML in high-volume enterprise settings.

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Krishna Sai Desaboina logo">
+  <rect width="512" height="512" fill="#1e3a5f"/>
+  <rect x="78" y="82" width="95" height="348" fill="#ffffff"/>
+  <polygon points="173,238 325,82 438,82 283,248 173,248" fill="#ffffff"/>
+  <polygon points="173,264 283,264 438,430 325,430 173,274" fill="#ffffff"/>
+  <circle cx="173" cy="256" r="29" fill="#7fb3e0"/>
+</svg>
